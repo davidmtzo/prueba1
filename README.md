@@ -1,7 +1,7 @@
 # prueba1
 Un repositorio privado para probar el funcionamiento de git/github
 
-##Historial
+## Historial
 -creado hola.txt, 'commit'eado
 -creada la rama bugFix, creado fix1.txt en el repositorio local y commiteado a la rama bugFix
 -subida la rama bugFix al repositorio en github
